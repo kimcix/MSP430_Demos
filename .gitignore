@@ -1,0 +1,19 @@
+### Code Composer Studio 10.1.10
+#   Author: Alex Kim
+#   Default workspace config, CCS-compatible
+###
+
+# Generated workspace artifacts
+.jxbrowser-data/
+.metadata/
+.tempFiles/
+dvt/
+RemoteSystemsTempFiles/
+# Generated project artifacts
+.config/
+.launches/
+.xdchelp
+
+# Generated build directories
+Debug/
+Release/
